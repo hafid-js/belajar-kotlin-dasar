@@ -1,1 +1,1 @@
-# belajar-kotlin-dasar
+bismillahirrahmannirrahim saya hendak belajar kotlin dasar
