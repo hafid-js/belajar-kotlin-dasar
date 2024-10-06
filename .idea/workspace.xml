@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="operasi matematika">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operasi Perbandingan.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="operasi perbandingan">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiBoolean.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728187816246</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="operasi perbandingan">
+      <option name="closed" value="true" />
+      <created>1728189319619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728189319619</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +142,7 @@
     <MESSAGE value="array &amp; variable" />
     <MESSAGE value="tipe data range" />
     <MESSAGE value="operasi matematika" />
-    <option name="LAST_COMMIT_MESSAGE" value="operasi matematika" />
+    <MESSAGE value="operasi perbandingan" />
+    <option name="LAST_COMMIT_MESSAGE" value="operasi perbandingan" />
   </component>
 </project>
