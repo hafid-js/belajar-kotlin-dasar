@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Function Varargs Parameter">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Extension Function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionInfixNotation.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -265,7 +265,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728215347845</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Extension Function">
+      <option name="closed" value="true" />
+      <created>1728218073783</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1728218073783</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Extension Function">
+      <option name="closed" value="true" />
+      <created>1728218077170</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1728218077170</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +318,7 @@
     <MESSAGE value="Function Return Type" />
     <MESSAGE value="Single Expression Method" />
     <MESSAGE value="Function Varargs Parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function Varargs Parameter" />
+    <MESSAGE value="Extension Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extension Function" />
   </component>
 </project>
