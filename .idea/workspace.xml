@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Single Expression Method">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionVarargsParameter.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Function Varargs Parameter">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728212015583</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Function Varargs Parameter">
+      <option name="closed" value="true" />
+      <created>1728215347844</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1728215347845</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +301,7 @@
     <MESSAGE value="Unit Returning Function" />
     <MESSAGE value="Function Return Type" />
     <MESSAGE value="Single Expression Method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Single Expression Method" />
+    <MESSAGE value="Function Varargs Parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function Varargs Parameter" />
   </component>
 </project>
