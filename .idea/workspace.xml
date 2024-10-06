@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="tipe data boolean">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="tipe data string">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -80,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728177343461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tipe data string">
+      <option name="closed" value="true" />
+      <created>1728179562083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728179562083</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tipe data number" />
     <MESSAGE value="tipe data boolean" />
-    <option name="LAST_COMMIT_MESSAGE" value="tipe data boolean" />
+    <MESSAGE value="tipe data string" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipe data string" />
   </component>
 </project>
