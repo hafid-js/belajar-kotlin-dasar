@@ -19,6 +19,7 @@ fun main() {
      }
 
     //
+    //
 
     val ukuranArray = array.size - 1
     for (i in 0..ukuranArray) {
