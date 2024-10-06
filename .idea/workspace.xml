@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="array &amp; variable">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Range.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="tipe data range">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OperatorMatematika.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728183439797</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tipe data range">
+      <option name="closed" value="true" />
+      <created>1728184157884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728184157884</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +124,7 @@
     <MESSAGE value="tipe data boolean" />
     <MESSAGE value="tipe data string" />
     <MESSAGE value="array &amp; variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="array &amp; variable" />
+    <MESSAGE value="tipe data range" />
+    <option name="LAST_COMMIT_MESSAGE" value="tipe data range" />
   </component>
 </project>
