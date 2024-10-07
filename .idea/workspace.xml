@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Function infix notation">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionScope.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnIfWhen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
