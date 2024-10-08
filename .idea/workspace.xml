@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Label">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Package.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/company/belajar/util/StringUtil.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Package &amp; Import">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MainParamater.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.MainParamaterKt">
     <configuration name="LabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LabelKt" />
       <module name="belajar-kotlin-dasar" />
@@ -57,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainParamaterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainParamaterKt" />
+      <module name="belajar-kotlin-dasar" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;eko kurniawan khannedy&quot; &quot;budi nugraha&quot; &quot;joko nurgoho&quot;" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.LabelKt" />
+      <item itemvalue="Kotlin.MainParamaterKt" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainParamaterKt" />
         <item itemvalue="Kotlin.LabelKt" />
       </list>
     </recent_temporary>
@@ -368,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728427962298</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Package &amp; Import">
+      <option name="closed" value="true" />
+      <created>1728428602609</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1728428602609</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +404,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="operasi boolean" />
     <MESSAGE value="When Expression" />
     <MESSAGE value="If And When Expression" />
     <MESSAGE value="For Loop" />
@@ -408,6 +428,7 @@
     <MESSAGE value="Closure" />
     <MESSAGE value="Inline Function" />
     <MESSAGE value="Label" />
-    <option name="LAST_COMMIT_MESSAGE" value="Label" />
+    <MESSAGE value="Package &amp; Import" />
+    <option name="LAST_COMMIT_MESSAGE" value="Package &amp; Import" />
   </component>
 </project>
