@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Lambda Expression">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HighOrderFunction.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="High Order Function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Closure.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -321,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728342788162</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="High Order Function">
+      <option name="closed" value="true" />
+      <created>1728344531052</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1728344531052</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +344,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="array &amp; variable" />
     <MESSAGE value="tipe data range" />
     <MESSAGE value="operasi matematika" />
     <MESSAGE value="operasi perbandingan" />
@@ -361,6 +368,7 @@
     <MESSAGE value="Recursive Function" />
     <MESSAGE value="Tail Recursive" />
     <MESSAGE value="Lambda Expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expression" />
+    <MESSAGE value="High Order Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="High Order Function" />
   </component>
 </project>
