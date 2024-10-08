@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Closure">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InlineFunction.kt" afterDir="false" />
+    <list default="true" id="e123e8f6-0b05-407c-afee-72f4e67142f8" name="Changes" comment="Inline Function">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Label.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,20 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="LabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabelKt" />
+      <module name="belajar-kotlin-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LabelKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -337,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728387679649</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Inline Function">
+      <option name="closed" value="true" />
+      <created>1728388594357</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1728388594357</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +374,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="operasi matematika" />
     <MESSAGE value="operasi perbandingan" />
     <MESSAGE value="operasi boolean" />
     <MESSAGE value="When Expression" />
@@ -377,6 +398,7 @@
     <MESSAGE value="Lambda Expression" />
     <MESSAGE value="High Order Function" />
     <MESSAGE value="Closure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Closure" />
+    <MESSAGE value="Inline Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inline Function" />
   </component>
 </project>
